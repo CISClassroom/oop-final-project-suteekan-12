@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="cc" green="cc" red="ff" type="rgb"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="238" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="288" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="44" pref="44" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="W" min="-2" pref="85" max="-2" attributes="0"/>
+                  <Component id="L" min="-2" pref="85" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="JL" min="-2" pref="139" max="-2" attributes="0"/>
+                  <Component id="JW" min="-2" pref="139" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="Combo" min="-2" pref="139" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="166" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="SUM" min="-2" pref="71" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="200" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="R" alignment="0" min="-2" pref="52" max="-2" attributes="0"/>
+                          <Component id="O" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="N" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                          <Component id="D" alignment="0" min="-2" pref="63" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace pref="38" max="32767" attributes="0"/>
+                      <Component id="H" min="-2" pref="143" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="JH" min="-2" pref="141" max="-2" attributes="0"/>
+                          <Component id="JR" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                          <Component id="JN" min="-2" pref="141" max="-2" attributes="0"/>
+                          <Component id="JD" alignment="0" min="-2" pref="141" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="250" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="JO" min="-2" pref="140" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="SU" min="-2" pref="205" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Component id="OK" min="-2" pref="81" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="Restart" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="120" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="W" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+                      <Component id="L" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                      <Component id="Combo" min="-2" pref="42" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                      <Component id="JW" min="-2" pref="42" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="JL" min="-2" pref="42" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="SUM" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="SU" min="-2" pref="48" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="JD" alignment="3" min="-2" pref="42" max="-2" attributes="0"/>
+                          <Component id="D" alignment="3" min="-2" pref="19" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="JN" alignment="3" min="-2" pref="48" max="-2" attributes="0"/>
+                          <Component id="N" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="JH" min="-2" pref="43" max="-2" attributes="0"/>
+                          <Component id="H" min="-2" pref="28" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="OK" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                          <Component id="Restart" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="JR" min="-2" pref="43" max="-2" attributes="0"/>
+                  <Component id="R" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="JO" min="-2" pref="45" max="-2" attributes="0"/>
+                  <Component id="O" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="0" red="66" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="36" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="33" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe42;&#xe1b;&#xe23;&#xe41;&#xe01;&#xe23;&#xe21;&#xe04;&#xe33;&#xe19;&#xe27;&#xe19;&#xe1e;&#xe37;&#xe49;&#xe19;&#xe17;&#xe35;&#xe48;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="W">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="99" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe04;&#xe27;&#xe32;&#xe21;&#xe01;&#xe27;&#xe49;&#xe32;&#xe07;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="L">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe04;&#xe27;&#xe32;&#xe21;&#xe22;&#xe32;&#xe27;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="D">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="33" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe14;&#xe49;&#xe32;&#xe19;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="N">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe10;&#xe32;&#xe19;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="H">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="66" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe04;&#xe27;&#xe32;&#xe21;&#xe2a;&#xe39;&#xe07;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="R">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="0" red="cc" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe23;&#xe31;&#xe28;&#xe21;&#xe35;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="JW">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="0" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="JL">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="0" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="JD">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="0" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="JN">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="0" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="JH">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="0" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="JR">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="0" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="SUM">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe41;&#xe2a;&#xe14;&#xe07;&#xe1c;&#xe25;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="SU">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="0" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="OK">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe15;&#xe01;&#xe25;&#xe07;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="OKActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Restart">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe40;&#xe23;&#xe34;&#xe48;&#xe21;&#xe43;&#xe2b;&#xe21;&#xe48;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="RestartActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Combo">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="66" red="ff" type="rgb"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="9">
+            <StringItem index="0" value="&#xe01;&#xe23;&#xe38;&#xe13;&#xe32;&#xe40;&#xe25;&#xe37;&#xe2d;&#xe01;"/>
+            <StringItem index="1" value="&#xe2a;&#xe35;&#xe48;&#xe40;&#xe2b;&#xe25;&#xe35;&#xe48;&#xe22;&#xe21;&#xe1c;&#xe37;&#xe19;&#xe1c;&#xe49;&#xe32;"/>
+            <StringItem index="2" value="&#xe2a;&#xe35;&#xe48;&#xe40;&#xe2b;&#xe25;&#xe35;&#xe48;&#xe22;&#xe21;&#xe08;&#xe31;&#xe15;&#xe38;&#xe23;&#xe31;&#xe2a;"/>
+            <StringItem index="3" value="&#xe2a;&#xe32;&#xe21;&#xe40;&#xe2b;&#xe25;&#xe35;&#xe48;&#xe22;&#xe21;"/>
+            <StringItem index="4" value="&#xe27;&#xe07;&#xe01;&#xe25;&#xe21;"/>
+            <StringItem index="5" value="&#xe2a;&#xe35;&#xe48;&#xe40;&#xe2b;&#xe25;&#xe35;&#xe48;&#xe22;&#xe21;&#xe02;&#xe19;&#xe21;&#xe40;&#xe1b;&#xe35;&#xe22;&#xe01;&#xe1b;&#xe39;&#xe19;"/>
+            <StringItem index="6" value="&#xe2a;&#xe35;&#xe48;&#xe40;&#xe2b;&#xe25;&#xe35;&#xe48;&#xe22;&#xe21;&#xe14;&#xe49;&#xe32;&#xe19;&#xe02;&#xe19;&#xe32;&#xe19;"/>
+            <StringItem index="7" value="&#xe1b;&#xe23;&#xe34;&#xe0b;&#xe36;&#xe21;"/>
+            <StringItem index="8" value="&#xe17;&#xe23;&#xe07;&#xe01;&#xe25;&#xe21;"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ComboActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="O">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Angsana New" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe1e;&#xe37;&#xe49;&#xe19;&#xe17;&#xe35;&#xe48;&#xe1c;&#xe34;&#xe27;&#xe02;&#xe49;&#xe32;&#xe07;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="JO">
+    </Component>
+  </SubComponents>
+</Form>
